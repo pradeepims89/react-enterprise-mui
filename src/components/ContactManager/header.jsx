@@ -12,7 +12,7 @@ const Header = () => {
                 <a href="#">Services</a> */}
                 <a href="#">Contact List</a>
             </nav>
-            <div className="menu-toggle" id="menuToggle">&#9776;</div>
+            <div className="menu-toggle" id="menuToggle"></div>
         </header>
        
     );
